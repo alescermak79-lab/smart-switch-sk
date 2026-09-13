@@ -166,3 +166,9 @@ details p { margin: 10px 0 2px; color: var(--muted); }
   .header-inner { gap: 10px; }
   .btn-shop { margin-left: auto; }
 }
+
+/* Logo image */
+.logo { display: inline-flex; align-items: center; gap: 4px; }
+.logo-img { display: block; height: 34px; width: auto; }
+.logo-suffix { color: var(--blue); font-weight: 800; font-size: 1.15rem; }
+.main-nav a { font-size: 0.85rem; }
